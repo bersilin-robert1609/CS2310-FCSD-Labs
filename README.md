@@ -2,4 +2,15 @@
 
 Repository of Submissions for FCSD Lab Course (IITM) Fall 2021
 
-These assignments were done in a group with team members Balakrishnan and Rizan who are the colloborators of this repository.
+### Assignments
+
+1. Implement a boolean function and some combinational logic circuits (decoders and encoders)
+2. Implement more combinational logic circuits (MUX, DEMUX, Comparators, etc.)
+3. Implement 16-bit adder/subtractor
+4. Implement 8-bit integer multipliers for signed and unsigned integers
+5. Design a simple 8-bit ALU
+6. Implement a 16-bit floating point multiplier
+7. Implement Hack ALU
+8. Implement Hack CPU and Hack Computer
+
+These assignments were done in a group with team members <a href="https://github.com/Bala-A87">Balakrishnan</a> and <a href="https://github.com/rizan21">Rizan</a> who are the collaborators of this repository.
